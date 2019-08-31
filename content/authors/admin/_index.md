@@ -50,3 +50,4 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "sergiog0698@gmail.com"
+---
