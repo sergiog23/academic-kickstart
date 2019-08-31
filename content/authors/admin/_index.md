@@ -14,16 +14,16 @@ role: Computer Science Senior
 
 # Organizations/Affiliations
 organizations:
-- name: University of Texas at Arlington 
+- name: Maverick Chess Club
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Computer Science Senior 
 
 interests:
+- Mobile App Development
+- Cyber Security
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
