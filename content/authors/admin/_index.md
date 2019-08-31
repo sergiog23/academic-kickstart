@@ -15,7 +15,7 @@ role: Computer Science Senior
 # Organizations/Affiliations
 organizations:
 - name: Maverick Chess Club
-  url: ""
+  url: "https://mavorgs.campuslabs.com/engage/organization/maverickchessclub"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Computer Science Senior 
