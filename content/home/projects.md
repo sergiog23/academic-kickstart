@@ -34,7 +34,7 @@ subtitle = ""
      tag = " CSS"
      description = " This was a project similar to petfinder" 
 
-  [experience]]
+  [[experience]]
     title = "Animal Shelter"
     date_start = "2018-06-01"
     date_end = ""
