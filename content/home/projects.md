@@ -26,7 +26,7 @@ subtitle = ""
      tag = "*"
   
   [[content.filter_button]]
-     name = "Deep Learning"
+     name = "Pay Calculator"
      tag = "Deep Learning"
   
    [[content.filter_button]]
@@ -34,7 +34,9 @@ subtitle = ""
      tag = " CSS"
      link = "https://github.com/sergiog23/Animal_Shelter"
      
-
+  [[content.filter_button]]
+     name = "Pay Calculator"
+     tag = "Deep Learning"
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
