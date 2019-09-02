@@ -14,6 +14,8 @@ role: Computer Science Senior
 
 # Organizations/Affiliations
 organizations:
+- name: University of Texas at Arlington 
+  url: "https://www.uta.edu/"
 - name: Maverick Chess Club
   url: "https://mavorgs.campuslabs.com/engage/organization/maverickchessclub"
 
@@ -42,6 +44,9 @@ social:
 - icon: github
   icon_pack: fab
   link: "https://github.com/sergiog23"
+- icon: linkedin
+  icon_pack: fab 
+  link: "https://www.linkedin.com/in/sergioguerrero23/"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
