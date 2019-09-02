@@ -25,14 +25,8 @@ subtitle = ""
   
    [[content.filter_button]]
      name = "Animal Shelter"
-     tag = "Created a website similar to Petfinder using HTML and CSS. Website uses PHP and MySQL server to update the database."
-     description = " This was a project similar to petfinder" 
+     tag = "*" 
 
-  [[experience]]
-    title = "Animal Shelter"
-    date_start = "2018-06-01"
-    date_end = ""
-    description = "yes"
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
