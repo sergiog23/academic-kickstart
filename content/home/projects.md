@@ -25,8 +25,7 @@ subtitle = ""
   
    [[content.filter_button]]
      name = "Animal Shelter"
-     tag = "Created a website similar to Petfinder using HTML and CSS. Website uses PHP and
-     MySQL server to update the database."
+     tag = "Created a website similar to Petfinder using HTML and CSS. Website uses PHP and MySQL server to update the database."
      description = " This was a project similar to petfinder" 
 
   [[experience]]
