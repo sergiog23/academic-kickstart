@@ -21,15 +21,15 @@ subtitle = ""
   description = "C,C++,Java,Python"
   
 [[feature]]
-  icon = "f1c0"
+  icon = "database"
   icon_pack = "fas"
   name = "Database Applications"
   description = "SQL Sever, MYSQL"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "Desktop"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Operating Systems"
+  description = "Windows,Linux, Mac OS X%"
 
 +++
