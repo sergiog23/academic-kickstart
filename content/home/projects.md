@@ -7,7 +7,6 @@ weight = 65  # Order that this section will appear.
 
 title = "Projects"
 subtitle = "Available on my Github" 
-url = "https://github.com/sergiog23/"
 
 
 [content]
