@@ -17,14 +17,14 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "code"
-  description = "80%"
+  name = "Languages"
+  description = "C,C++,Java,Python"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "f1c0"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "10%"  
+  name = "Database Applications"
+  description = "SQL Sever, MYSQL"  
   
 [[feature]]
   icon = "camera-retro"
