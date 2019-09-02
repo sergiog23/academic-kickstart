@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "https://github.com/sergiog23/Animal_Shelter"
 
 [content]
   # Page type to display. E.g. project.
@@ -36,6 +36,9 @@ subtitle = ""
      
   [[content.filter_button]]
      name = "FAT 32 Bash Shell"
+     tag = ".Deep Learning"
+     [[content.filter_button]]
+     name = "The Social Network"
      tag = ".Deep Learning"
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
