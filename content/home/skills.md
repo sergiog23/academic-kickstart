@@ -27,9 +27,15 @@ subtitle = ""
   description = "SQL Sever, MYSQL"  
   
 [[feature]]
-  icon = "Desktop"
+  icon = "desktop"
   icon_pack = "fas"
   name = "Operating Systems"
-  description = "Windows,Linux, Mac OS X%"
+  description = "Windows,Linux, Mac OS X"
+
+[[feature]]
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "Applications"
+  description = "Vim, Xcode, MS Visual Studio, .NET, TFS"
 
 +++

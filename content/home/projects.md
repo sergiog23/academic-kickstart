@@ -29,9 +29,10 @@ subtitle = ""
      name = "Deep Learning"
      tag = "Deep Learning"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+   [[content.filter_button]]
+     name = "Animal Shelter"
+     tag = " CSS"
+     description = " This was a project similar to petfinder" 
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
