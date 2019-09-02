@@ -6,7 +6,9 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "https://github.com/sergiog23/Animal_Shelter"
+subtitle = "Available on my Github" 
+url: "https://github.com/sergiog23/"
+
 
 [content]
   # Page type to display. E.g. project.
