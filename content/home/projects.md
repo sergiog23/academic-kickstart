@@ -34,14 +34,11 @@ subtitle = ""
      tag = " CSS"
      description = " This was a project similar to petfinder" 
 
-[experience]]
-  title = "Animal Shelter"
-  date_start = "2018-06-01"
-  date_end = ""
-  description = """
-  
-  * Creating test cases for developing KDS
-  * Deploying to production environment
+  [experience]]
+    title = "Animal Shelter"
+    date_start = "2018-06-01"
+    date_end = ""
+    description = "yes"
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
