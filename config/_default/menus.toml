@@ -22,3 +22,7 @@
     name = "Resume"
     url = "static/cv.pdf"
     weight = 70
+  [[menu.main]]
+    name = "CV"
+    url = "/files/cv.pdf"
+    weight = 100
