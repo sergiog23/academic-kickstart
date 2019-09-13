@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: " A new prokect"
+title: " A new project"
 summary: " This is a test projext "
-authors: [Sergio Guerrer]
+authors: [Sergio Guerrero]
 tags: [ALL]
 categories: [ALL]
 
@@ -14,8 +14,8 @@ external_link: "https://github.com/sergiog23"
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "yes"
+  focal_point: "Smart"
   preview_only: true
 
 # Custom links (optional).
