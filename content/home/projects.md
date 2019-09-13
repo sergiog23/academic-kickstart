@@ -21,26 +21,7 @@ subtitle = "Available on my Github"
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
-  
-   [[content.filter_button]]
-     name = "All"
-     tag = "*"
-  
-  [[content.filter_button]]
-     name = "Pay Calculator"
-     tag = ".Deep Learning"
-  
-   [[content.filter_button]]
-     name = "Animal Shelter"
-     tag = " CSS"
-     link = "https://github.com/sergiog23/Animal_Shelter"
-     
-  [[content.filter_button]]
-     name = "FAT 32 Bash Shell"
-     tag = ".Deep Learning"
-     [[content.filter_button]]
-     name = "The Social Network"
-     tag = ".Deep Learning"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "4"
