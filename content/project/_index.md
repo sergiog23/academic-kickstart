@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: " A new project"
+title: "A new project"
 summary: " This is a test projext "
 authors: [Sergio Guerrero]
 tags: [ALL]
