@@ -3,7 +3,7 @@
 
 title: "A new project"
 summary: " This is a test projext "
-authors: [Sergio Guerrero]
+authors: ["admin"]
 tags: [ALL]
 categories: [ALL]
 date: [08-08-2012]
