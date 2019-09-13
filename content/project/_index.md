@@ -6,7 +6,6 @@ summary: " This is a test projext "
 authors: [Sergio Guerrer]
 tags: [AI]
 categories: [New]
-date: {{}}
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/sergiog23"
