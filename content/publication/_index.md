@@ -5,7 +5,6 @@ widget = "pages"  # Use the Pages widget
 headless = true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: i dont know 
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
