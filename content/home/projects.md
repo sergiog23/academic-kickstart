@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "Available on my Github" 
+subtitle = "NOse" 
 
 
 [content]
