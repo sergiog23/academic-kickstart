@@ -4,8 +4,8 @@
 title: " A new prokect"
 summary: " This is a test projext "
 authors: [Sergio Guerrer]
-tags: [AI]
-categories: [New]
+tags: [ALL]
+categories: [ALL]
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/sergiog23"
@@ -16,15 +16,15 @@ external_link: "https://github.com/sergiog23"
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+ - name: Follow
+   url: https://twitter.com
+   icon_pack: fab
+   icon: twitter
 
 url_code: ""
 url_pdf: ""
