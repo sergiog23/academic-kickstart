@@ -20,7 +20,7 @@ organizations:
   url: "https://mavorgs.campuslabs.com/engage/organization/maverickchessclub"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computer Science Senior 
+bio: Sergio Guerrero is a passionate Computer Science Senior at The University of Texas at Arlington expecting to graduate Spring 2020. Interests inlude iOS Development and Cyber Security. 
 
 interests:
 - Mobile App Development

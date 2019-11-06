@@ -8,8 +8,8 @@ title: Posts
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
+header: Search Engine written in python using TF-IDF
+  caption: " PHASE I Search "
   image: ""
 ---
 
