@@ -20,7 +20,7 @@ organizations:
   url: "https://mavorgs.campuslabs.com/engage/organization/maverickchessclub"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested
+bio: Aspiring Computer Scientist
 
 interests:
 - Mobile App Development
