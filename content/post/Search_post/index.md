@@ -23,6 +23,6 @@ Term frequency was calculated using how many times the term appeared in the docu
 
 ## Experiments 
 ## References: 
-[TF-IDF]("https://www.tfidf.com/")
-[Flask]("https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH")
-[Python TF-IDF]("https://www.freecodecamp.org/news/how-to-process-textual-data-using-tf-idf-in-python-cd2bbc0a94a3/")
+[TF-IDF](https://www.tfidf.com/)
+[Flask](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+[Python TF-IDF](https://www.freecodecamp.org/news/how-to-process-textual-data-using-tf-idf-in-python-cd2bbc0a94a3/)
