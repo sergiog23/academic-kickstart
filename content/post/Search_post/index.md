@@ -19,4 +19,10 @@ Term frequency was calculated using how many times the term appeared in the docu
 
 ## Challenges faced:
  Some of the challenges I faced when developing Phase in was getting used to dealing with a large data set and implementing TF-IDF without using a prebuilt library. My dataset was also no the best for this project because the Youtube video description did not give very good insight on what the video was about. It had many links to Youtuber's references and information not related to the video. Also, when I was trying to tokenize the file I ran into problems because some of the rows sections was empty so it was getting wrong data. 
+## Overcoming Challenges
 
+## Experiments 
+## References: 
+[TF-IDF]("https://www.tfidf.com/")
+[Flask]("https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH")
+[Python TF-IDF]("https://www.freecodecamp.org/news/how-to-process-textual-data-using-tf-idf-in-python-cd2bbc0a94a3/")
