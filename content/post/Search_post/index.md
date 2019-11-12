@@ -10,7 +10,7 @@ In this part of the project I developed a search engine using Python3, numpy,Fla
 I used TF-IDF to compute the score of each document in the Data. 
 Link to Readme with explanation on deployment instructions 
 Term frequency was calculated using how many times the term appeared in the document. 
- ![YES](/post/TFiDF.png)
+ ![YES](/post/tfIDF.png)
 
         ' for row in dataset:
             for term in row:
@@ -18,6 +18,7 @@ Term frequency was calculated using how many times the term appeared in the docu
                     df = sum(1 for document in final_document if term in document)
                     toat = tf * math.log10(len(dataset)/df)'
 ## Link to Github 
+Link to repository on github and Readme instructions on how to run. 
 [Github](https://github.com/sergiog23/YoutubeSearchClassify/blob/master/README.md)
 
 ## Challenges faced:
