@@ -18,7 +18,7 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Languages"
-  description = "C,C++,Java,Python"
+  description = "C,C++,Java,Python,HTML"
   
 [[feature]]
   icon = "database"
