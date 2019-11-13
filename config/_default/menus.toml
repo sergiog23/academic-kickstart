@@ -16,14 +16,8 @@
 
 [[main]]
   name = "Posts"
-  url = "#posts"
+  url = "#recentposts"
   weight = 30
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 30
-
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -31,3 +25,7 @@
     name = "Resume"
     url = "https://sergiog23.github.io/Sergio_Resume083029.pdf"
     weight = 70
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 30
