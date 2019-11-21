@@ -60,4 +60,4 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "sergiog0698@gmail.com"
 ---
-Sergio Guerrero is a passionate Computer Science Senior at The University of Texas at Arlington expecting to   graduate Spring 2020. Interests include iOS Development and Cyber Security. 
+Sergio Guerrero is a passionate Computer Science Senior at The University of Texas at Arlington expecting to  graduate Spring 2020. Interests include iOS Development and Cyber Security. 
