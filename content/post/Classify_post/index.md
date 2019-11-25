@@ -5,6 +5,7 @@ summary = " Naive Bayes Text classifier "
 ## Background 
 Naive Bayes is based on Bayes' Rule which finds the probability of an event occuring given the probability of another even that has already occured. It is based on prior probability. We use a **feature matrix** and a **response vector** 
  ![YES](/post/naiveBayes.png)
+ ![YES](/post/posterior.png)
 
 
 ## General Idea
