@@ -3,7 +3,7 @@
 summary = " Search Engine using TF-IDF in python " 
 +++
 ## Background 
-In this Data Mining Project I used **Tf-idf** (term frequency-inverse document frequency) to develop my search feature on my 'Youtube Videos Dataset' This dataset has about 45,000 entries and I am using the Title and Description as the textual component to search. Tf-idf is a very popular weighting scheme for scoring and ranking a document's relevance given a users query. 
+In this Data Mining Project I used **Tf-idf** (term frequency-inverse document frequency) to develop my search feature on my 'iOS Mobile APP dataset' This dataset has about 7K entries and I am using the Title and Description as the textual component to search. Tf-idf is a very popular weighting scheme for scoring and ranking a document's relevance given a users query. 
 
 ## Phase I.
 In this part of the project I developed a search engine using Python3, numpy,Flask, nltk, and pythonanywhere. 
@@ -22,7 +22,7 @@ Link to repository on github and Readme instructions on how to run.
 [Github](https://github.com/sergiog23/YoutubeSearchClassify/blob/master/README.md)
 
 ## Challenges faced:
- Some of the challenges I faced when developing Phase in was getting used to dealing with a large data set and implementing TF-IDF without using a prebuilt library. My dataset was also not the best for this project because in my Youtube video dataset the textual component in  ['description'] did not give very good insight on the content of the video. It had many links to Youtuber's references and information not related to the video. Also, when I was trying to tokenize the file I ran into problems because some of the rows sections was empty so it was getting wrong data.
+ Some of the challenges I faced when developing Phase in was getting used to dealing with a large data set and implementing TF-IDF without using a prebuilt library. My dataset was also not the best for this project because in my Youtube video dataset the textual component in  ['description'] did not give very good insight on the content of the video. It had many links to Youtuber's references and information not related to the video. Also, when I was trying to tokenize the file I ran into problems because some of the rows sections was empty so it was getting wrong data. I got the Search feature working for that dataset but ran into problems when I was doing the classifier, I ended up changing the Data set to an iOS App Dataset I found on Kaggle, it had a better description for each app and did not have as much noise as the Youtube Dataset. 
 ## Overcoming Challenges
 Luckily I had many resources available to get me back on the right track. I used Pandas a python library that is very helpful to building a dataset. For filering out the non-alphabetic content I used a regular expression. 
 ## Experiments 
