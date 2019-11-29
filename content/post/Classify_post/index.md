@@ -16,9 +16,10 @@ Link to repository on github and Readme instructions on how to run.
 [Github](https://github.com/sergiog23/YoutubeSearchClassify/blob/master/README.md)
 
 ## Challenges faced:
- Some of the challenges I faced when developing the classifier was
+ Some of the challenges I faced when developing the classifier was the Dataset I was using, the dataset on kaggle was comprised of two csv's.One had the textual component which was the description and the other had the primary genre of the app. I tried to to process both CSV's separately and it was taking significantly long. I had to merge the column of the prime_genre to the main CSV and ran it that way.
 
 ## Experiments 
+For my experiments I changed the smoothing parameter and modified it to see what produced the best results. a=0.1, a=10, a=50, a=100
 
 
 ## References: 
