@@ -10,7 +10,9 @@ I had not used Google Collab or Jupyter Notebook before so it was challenging to
 ## Limitations 
 These are some examples that the system captioned are incorrect based on the complexity on the image.
 ![YES](/post/aman.png)
+In this example we see that the caption generated is not very accurate since it classifies the woman as a and it confuses DJ disks with Stove tops 
 ![YES](/post/aman2.png)
+In this example we see that the caption generated it confused a woman holding a baby with a man and a smart phone
 
 ## Link to project 
 [CLICK HERE](http://sergioguerrero.pythonanywhere.com/)
