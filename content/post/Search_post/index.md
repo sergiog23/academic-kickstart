@@ -28,6 +28,9 @@ Luckily I had many resources available to get me back on the right track. I used
 ## Experiments 
 I did an experiment with and without stopwords. When I did not remove the stop words I had alot of results that did not include what I was looking for. Since most of the entries had stop words I would get back many results since many of the documents had stop words. When I used the stemmer I got better results because it was more focused on the key words in the search. 
 
+## Link to project 
+[CLICK HERE](http://sergioguerrero.pythonanywhere.com/)
+
 ## References: 
 [TF-IDF](https://www.tfidf.com/)
 [Flask](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
