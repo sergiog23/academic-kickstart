@@ -12,10 +12,10 @@ Naive Bayes is based on Bayes' Rule which finds the probability of an event occu
 I use the prime_genre column of the dataset to categorize the app which includes categories like "Entertainment","Education","Productivity",etc. This serves as a type of Ground Truth since the classifier will base it assumption on words that were used in the description of these rows to predict what type of app the query is. I preprocess the dataset by tokenizing it and removing the stopwords to create a list of terms. Then I calculate the prior probability by dividing the number of documents in each class by the total number of documents. The conditional probability is calcualtes using TF in documents that belong to the class. However, in order to not get 0 in conditional probability we can use **Laplace smoothing** and use the smoothing parameter a = 1 , we add 1 to every 
 probability, therefore the probability will never be zero.
 
-  ' for prime_genre in categories:
-            result[prime_genre] = prior[prime_genre]
-            for term in user_query_terms:
-                if term in conditionalProb:
+  ' for prime_genre in categories:/
+            result[prime_genre] = prior[prime_genre]/
+            for term in user_query_terms:/
+                if term in conditionalProb:/
                     result[prime_genre] = result[prime_genre] * conditionalProb[term][prime_genre]'
 
  ![YES](/post/laplace.png)
