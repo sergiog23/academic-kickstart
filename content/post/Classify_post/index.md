@@ -16,7 +16,7 @@ probability, therefore the probability will never be zero.
             result[prime_genre] = prior[prime_genre]
             for term in user_query_terms:
                 if term in conditionalProb:
-                    result[prime_genre] = result[prime_genre] * conditionalProb[term][prime_genre] '
+                    result[prime_genre] = result[prime_genre] * conditionalProb[term][prime_genre]'
 
  ![YES](/post/laplace.png)
 ## Link to Github 
