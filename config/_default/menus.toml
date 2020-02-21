@@ -26,3 +26,9 @@
   name = "Contact"
   url = "#contact"
   weight = 30
+  
+[[main]]
+  name = "YouTube"
+  url = "https://www.youtube.com/channel/UC2ClsO9T8tGncHu-OfauIiA"
+  weight = 30
+  
