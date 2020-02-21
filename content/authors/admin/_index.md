@@ -50,7 +50,7 @@ social:
 - icon: file-alt
   icon_pack: fas
   link: "https://sergiog23.github.io/Sergio_Resume083029.pdf"
-  - icon: youtube
+  - icon: linkedin
   icon_pack: fab
   link: "https://www.youtube.com/channel/UC2ClsO9T8tGncHu-OfauIiA"
  
