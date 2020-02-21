@@ -50,6 +50,10 @@ social:
 - icon: file-alt
   icon_pack: fas
   link: "https://sergiog23.github.io/Sergio_Resume083029.pdf"
+  - icon: fa-youtube
+  icon_pack: fab
+  link: "https://www.youtube.com/channel/UC2ClsO9T8tGncHu-OfauIiA"
+ 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -60,4 +64,4 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "sergiog0698@gmail.com"
 ---
-Sergio Guerrero is a passionate Computer Science Senior at The University of Texas at Arlington expecting to  graduate Spring 2020. Interests include iOS Development and Cyber Security. 
+Sergio Guerrero is a passionate Computer Science Senior at The University of Texas at Arlington expecting to  graduate Spring 2020. Interests include iOS Development and Cyber Security. I also enjoy playing chess and making YouTube videos.
