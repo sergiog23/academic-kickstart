@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
+
   * Creating test cases for developing KDS
   * Deploying to production environment
   * Implementing test cases 
