@@ -18,7 +18,7 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Languages"
-  description = "C,C++,Java,Python,HTML"
+  description = "C,C++,Java,Python,HTML,Javascript"
   
 [[feature]]
   icon = "database"
@@ -36,6 +36,6 @@ subtitle = ""
   icon = "terminal"
   icon_pack = "fas"
   name = "Applications"
-  description = "Vim, Xcode, MS Visual Studio, .NET, TFS"
+  description = "Vim, Xcode, MS Visual Studio, .NET, TFS,Figma"
 
 +++

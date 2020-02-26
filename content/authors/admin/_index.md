@@ -32,6 +32,7 @@ education:
   - course: BSc in Computer Science
     institution: University of Texas at Arlington
     year: 2020
+    
 hobbies:
 - Chess 
 - Running 
