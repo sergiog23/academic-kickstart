@@ -8,9 +8,6 @@
   url = "#about"
   weight = 10
 
-
-
-
 [[main]]
   name = "Posts"
   url = "post/"
