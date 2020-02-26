@@ -33,6 +33,6 @@
   weight = 30
 [[main]]
   name = "Blog"
-  url = "blog/"
+  url = "publication/"
   weight = 30
   
