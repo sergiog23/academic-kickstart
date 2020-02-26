@@ -16,7 +16,7 @@ role: Computer Science Senior
 organizations:
 - name: University of Texas at Arlington 
   url: "https://www.uta.edu/"
-- name: Maverick Chess Club
+- name: Maverick Chess Club President 
   url: "https://mavorgs.campuslabs.com/engage/organization/maverickchessclub"
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,6 +32,11 @@ education:
   - course: BSc in Computer Science
     institution: University of Texas at Arlington
     year: 2020
+hobbies:
+- Chess 
+- Running 
+- Reading
+- Filming
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
