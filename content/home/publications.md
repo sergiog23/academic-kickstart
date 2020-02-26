@@ -57,7 +57,7 @@ subtitle = "My Online Journal"
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-[A publication]({{< ref "/publication/blog/index.md" >}})
+[a]({{< ref "/publication/blog/index.md" >}})
   
 [advanced]
  # Custom CSS. 
