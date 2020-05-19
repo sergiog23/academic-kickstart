@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Computer Science Senior 
+role: Incoming IT Project Engineer at Wipro
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: "https://mavorgs.campuslabs.com/engage/organization/maverickchessclub"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computer Science Student 
+bio: IT Project Engineer
 
 interests:
 - Mobile App Development
