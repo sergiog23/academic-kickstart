@@ -32,6 +32,11 @@ education:
   - course: BSc in Computer Science
     institution: University of Texas at Arlington
     year: 2020
+  - course: MS in Computer Science
+    institution: University of Texas at Arlington
+    year: 2022
+    
+  
     
 hobbies:
 - Chess 
@@ -70,4 +75,4 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "sergiog0698@gmail.com"
 ---
-Sergio Guerrero is a passionate Computer Science Senior at The University of Texas at Arlington expecting to  graduate Spring 2020. Interests include iOS Development and Cyber Security. I also enjoy playing chess and making YouTube videos.
+Sergio Guerrero is a Graduate Student at The University of Texas at Arlington expecting to graduate Spring 2022. Interests include iOS Development and Cyber Security. Incoming IT Project Engineer at Wipro.
