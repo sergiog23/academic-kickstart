@@ -75,4 +75,4 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "sergiog0698@gmail.com"
 ---
-Sergio Guerrero is a Graduate Student at The University of Texas at Arlington expecting to graduate Spring 2022. Interests include iOS Development and Cyber Security. Incoming IT Project Engineer at Wipro.
+Sergio Guerrero is a Graduate Student at The University of Texas at Arlington expecting to graduate Spring 2022. Interests include Data Science and Software Development. Incoming IT Project Engineer at Wipro.
