@@ -60,7 +60,7 @@ social:
   link: "https://www.linkedin.com/in/sergioguerrero23/"
 - icon: file-alt
   icon_pack: fas
-  link: "https://sergiog23.github.io/Sergio_Resume083029.pdf"
+  link: "https://sergiog23.github.io/Sergio_Resume10042020.pdf"
 - icon: youtube
   icon_pack: fab
   link: "https://www.youtube.com/channel/UC2ClsO9T8tGncHu-OfauIiA"
