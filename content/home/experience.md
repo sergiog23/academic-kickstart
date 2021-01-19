@@ -31,7 +31,16 @@ date_format = "Jan 2006"
   * Deploying to production environment
   * Implementing test cases 
   """
+[[experience]]
+  title = "Software Developer"
+  company = "Paycom"
+  company_url = "https://www.paycom.com/"
+  location = "Dallas"
+  date_start = "2020-01-25"
+  date_end = ""
+  description = """
 
+  """
 
 
 +++
