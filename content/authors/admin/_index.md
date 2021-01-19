@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate CS Student
+role: Software Developer at Paycom / Graduate CS Student
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: "https://mavorgs.campuslabs.com/engage/organization/maverickchessclub"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Graduate CS Student
+bio: Software Developer at Paycom
 
 interests:
 - Full Stack Development 
@@ -75,4 +75,4 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "sergiog0698@gmail.com"
 ---
-Sergio Guerrero is a Graduate Student at The University of Texas at Arlington expecting to graduate Spring 2022. Interests include Data Science and Software Development. 
+Sergio Guerrero is a Software Developer at Paycom. Also a Graduate Student at The University of Texas at Arlington expecting to graduate Spring 2022. Interests include Data Science and Software Development. 
