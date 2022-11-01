@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Developer at Paycom / Graduate CS Student
+role: Software Developer at Paycom
 
 # Organizations/Affiliations
 organizations:
@@ -61,9 +61,7 @@ social:
 - icon: file-alt
   icon_pack: fas
   link: "https://sergiog23.github.io/Sergio_Resume10042020.pdf"
-- icon: youtube
-  icon_pack: fab
-  link: "https://www.youtube.com/channel/UC2ClsO9T8tGncHu-OfauIiA"
+
  
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -75,4 +73,4 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "sergiog0698@gmail.com"
 ---
-Sergio Guerrero is a Software Developer at Paycom and a Graduate Student at The University of Texas at Arlington expecting to graduate Spring 2022. Interests include Data Science and Software Development. 
+Sergio Guerrero is a Software Developer at Paycom. Interests include Data Science and Software Development. 

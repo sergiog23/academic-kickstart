@@ -18,13 +18,13 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Languages"
-  description = "C,C++,Java,Python,HTML,Javascript,Cofee Script"
+  description = "C,C++,C#,Java,Python,HTML,Javascript,Cofee Script"
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "Database Applications"
-  description = "SQL Sever, MYSQL"  
+  description = "SQL Sever, MYSQL,DbForge,Toad"  
   
 [[feature]]
   icon = "desktop"
@@ -36,6 +36,6 @@ subtitle = ""
   icon = "terminal"
   icon_pack = "fas"
   name = "Applications"
-  description = "Vim, Xcode, MS Visual Studio, .NET, TFS,Figma, AWS Cloud 9"
+  description = "Vim, Xcode, MS Visual Studio, .NET, TFS,Figma, AWS Cloud 9,Splunk,Jira"
 
 +++
