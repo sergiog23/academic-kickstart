@@ -39,6 +39,9 @@ date_format = "Jan 2006"
   date_start = "2020-01-25"
   date_end = ""
   description = """
+ 
+  * Enhanced the Tax Reporting Application’s features by effectively fixing bugs and optimizing the performance of state and federal reports. 
+  * Migrating existing desktop application to a web application using .NET and React 
   """
 
 
